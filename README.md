@@ -91,7 +91,8 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 * 💾 Local storage for moves
 
 ---
-
+[![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://forthebadge.com)
+---
 ## 👩‍💻 Author
 
 **Chhavi Luthra**
