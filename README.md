@@ -76,7 +76,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🧠 What I Changed
+## 💾 What I Changed
 
 * Separate Components
 * Used a for-loop logic for the grid
