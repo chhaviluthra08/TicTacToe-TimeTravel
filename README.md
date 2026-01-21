@@ -10,6 +10,7 @@
 ```
 🕹️ **Tic Tac Toe — Neon Edition**  
 > A retro arcade remix of the React tutorial ⚡
+<img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=MADE+WITH&secondaryLabel=REACT&primaryBGColor=%2331C4F3&secondaryBGColor=%23389AD5&primaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryTextColor=%23FFFFFF&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&secondaryIcon=react&secondaryIconColor=%23FFFFFF&secondaryIconSize=16&secondaryIconPosition=left" alt="Made with React" />
 
 ---
 
@@ -89,9 +90,7 @@ Visit 👉 [http://localhost:3000](http://localhost:3000) on your local systems.
 * 🧑‍🎨 Player names & scoreboard
 * 🌈 Animated win sequence
 * 💾 Local storage for moves
-
----
-[![forthebadge](https://forthebadge.com/images/badges/made-with-react.svg)](https://forthebadge.com)
+  
 ---
 ## 👩‍💻 Author
 
